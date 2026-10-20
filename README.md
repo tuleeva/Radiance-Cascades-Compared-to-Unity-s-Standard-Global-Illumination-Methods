@@ -50,8 +50,4 @@ MIT
 
 ## Project Overview
 
-This project compares Radiance Cascades with
-standard global illumination methods in Unity.
-
-The goal is to compare rendering quality and
-performance between these methods.
+This project explores different global illumination methods in Unity.
